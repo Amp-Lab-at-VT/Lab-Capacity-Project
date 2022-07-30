@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Lab Capacity Project
