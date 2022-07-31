@@ -3,8 +3,8 @@ layout: project_template
 title: Lab Capacity Project
 description: The purpose of this project is to determine the capacity of the labs in Virginia Tech. The method to determine the capacity is to measure the number of people in the lab. The result we want to achieve is 3 level: the lab is full, half full or empty. 
 date: 2000-01-14 09:00:00
-hero_image: /web/img/Lab-Capacity-Project/open_house.png
-image: /web/img/Lab-Capacity-Project/open_house.png
+hero_image: /web/img/Lab-Capacity-Project/Hero.png
+image: /web/img/Lab-Capacity-Project/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
