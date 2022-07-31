@@ -9,10 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Guo Yunfei
-Guan Congyi
-Han yi
-Zhou Yuyang
+author: Guo Yunfei, Guan Congyi, Han yi, Zhou Yuyang
 show_sidebar: false
 ---
 
